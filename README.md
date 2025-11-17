@@ -5,6 +5,7 @@
 
 ## 🚀 Overview  
 **Innovation Radar** is an AI agent designed for staying ahead of the curve in **AI, Product Management, and Agentic technology**.  
+
 It uses a custom **MCP server** with real tools to gather verified insights from:
 
 - 🧠 Product thought leaders (Lenny, Paweł, Aakash, Claire, etc.)  
