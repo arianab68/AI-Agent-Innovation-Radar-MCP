@@ -27,19 +27,17 @@ Pulls real posts from Substack / blogs using:
 ### ✔ **AI news + LinkedIn-style insights via Perplexity**
 Uses your Perplexity API key through:
 
-- `search_ai_news(query)`  
-to fetch recent:
+- `search_ai_news(query)` to fetch recent:
 - AI model releases  
 - Agent framework updates  
 - Influencer commentary  
 - LinkedIn-style summaries (legally via LLM search)  
 
 ### ✔ **Agent configuration persistence**
-- `save_agent(name, config)`  
-saves agent definitions into `/agents`.
+- `save_agent(name, config)` saves agent definitions into `/agents`.
 
 ### ✔ **Runs locally using MCP + Cursor**
-No cloud, no external hosting.
+- No cloud, no external hosting.
 
 ---
 
@@ -60,7 +58,7 @@ All insights the agent uses must come from these tools — no hallucinations.
 
 ---
 
-### **2. Agent (`agent.json`)**
+### **2. Agent (`innovation-radar.json`)**
 
 The agent is optimized for **AI PM workflows** and performs:
 
